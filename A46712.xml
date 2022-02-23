@@ -1,0 +1,433 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached in the Cathedral Church of Norwich at the Mayor's Guild, June xx, 1693 by John Jeffery ...</title>
+            <author>Jeffery, John, 1647-1720.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46712</idno>
+            <idno type="STC">Wing J520</idno>
+            <idno type="STC">ESTC R35426</idno>
+            <idno type="EEBO-CITATION">15294242</idno>
+            <idno type="OCLC">ocm 15294242</idno>
+            <idno type="VID">103378</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46712)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103378)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1190:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached in the Cathedral Church of Norwich at the Mayor's Guild, June xx, 1693 by John Jeffery ...</title>
+                  <author>Jeffery, John, 1647-1720.</author>
+               </titleStmt>
+               <extent>[7], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Adamson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Imprimatur, Septemb. 8, 1693. Geo. Royse"--Opposite t.p.</note>
+                  <note>Advertisement: [1] p. at end.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Chronicles, 2nd, XIX, 5-7 --  Sermons.</term>
+               <term>Justice --  Biblical teaching.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103378:1"/>
+            <pb facs="tcp:103378:1" rendition="simple:additions"/>
+            <p>A SERMON Preached in the <hi>Cathedral Church</hi> OF NORWICH, AT THE Mayor's Guild, <hi>J<g ref="char:V">Ʋ</g>NE</hi> xx. 1693.</p>
+            <p>By <hi>JOHN JEFFERY,</hi> M. A. Miniſter of <hi>S. Peter's of Mancroft</hi> in <hi>Norwich.</hi>
+            </p>
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>Iames Adamſon,</hi> at the <hi>Angel</hi> and <hi>Crown</hi> in <hi>S. Paul's Church-Yard.</hi> 1693.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:103378:2"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Septemb.</hi> 8. 1693.</date>
+               </dateline>
+               <signed>GEO. ROYSE.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:103378:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:103378:3" rendition="simple:additions"/>
+            <pb facs="tcp:103378:3"/>
+            <head>To the Right Worſhipful <hi>Robert Cooke Eſq;</hi> MAYOR OF The City of Norwich.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>JUſtice is ſo neceſſary to Society, and ſo eſſential to Religion, that none can be Safe in this World, or Happy in the next,
+<pb facs="tcp:103378:4"/>farther than it prevails in their Hearts and Lives.</p>
+            <p>The Dignity and Fitneſs of the Subject was that which induced me to chuſe it for the Occaſi<g ref="char:EOLhyphen"/>on; And the ſame Reaſon (I believe) made you deſire the Sermon might be printed for your Uſe.</p>
+            <p>And as nothing is more agree<g ref="char:EOLhyphen"/>able to the Office of a Magiſtrate, or to the Duty of a Chriſtian than Juſtice, ſo I do moſt heartily re<g ref="char:EOLhyphen"/>commend this great Truth to the ſerious Conſideration of all; and particularly of your ſelf: Adding my Prayers unto God for you, That he would endow you with
+<pb facs="tcp:103378:4"/>all thoſe Gifts, that are neceſſary for your Office, and make you faithful in it; which is the moſt proper Expreſſion of my Regards to you, who am,</p>
+            <closer>
+               <signed>Your Humble Servant, JOHN JEFFERY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:103378:5"/>
+            <pb n="1" facs="tcp:103378:5"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 Chron. xix. 5, 6, 7.</hi>
+                  </bibl>
+                  <p>And he ſet Judges in the Land, throughout all the fenced cities of Judah, city by city. And ſaid to the Judges, Take heed what ye do; for ye judge not for man but for the Lord, who is with you in the judgment. Wherefore now let the fear of the Lord be upon you; take heed and do it, for there is no iniquity with the Lord our God, nor reſpect of perſons, nor taking of Gifts.</p>
+               </q>
+            </epigraph>
+            <p>THE Matters of Government and the kinds of Governours, are <hi>Military, Civil,</hi> and <hi>Eccleſiaſtical:</hi> And the Su<g ref="char:EOLhyphen"/>preme Powers are ſupreme in all theſe Caſes.</p>
+            <p>Accordingly we find in the Hiſtory of <hi>Jehoſhaphat</hi> (which is contained in Chap. 17, 18, 19, 20. of this Book) how he placed ſubordinate Governours, of every kind, throughout his whole Kingdom. There were <hi>Gariſons</hi> in all thoſe Cities, which could be fortified: For it was a Time of War, c. 17.1. There were alſo <hi>Civil Magiſtrates,</hi> in the ſame Cities, as in the Text. There were alſo <hi>Eccleſiaſtical Rulers,</hi>
+               <pb n="2" facs="tcp:103378:6"/>which are particularly mentioned concerning <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> v. 8. <hi>He ſet Levites and Prieſts:</hi> And the chief Eccleſiaſtical Governour there was <hi>Amariah,</hi> v. 11.</p>
+            <p>The <hi>King</hi> himſelf was ſupreme; and in him all the Powers (Military, Civil and Eccleſiaſtical) did concenter. So it was among the Gentiles and among the Jews: And there is a Neceſſity it ſhould be ſo; for there cannot be two Supremacies in one Nation
+<note n="(a)" place="margin">Letters of Father <hi>Paul,</hi> Let. 123</note>.</p>
+            <p>But the Text and the occaſion confine my Diſ<g ref="char:EOLhyphen"/>courſe to the <hi>Subordinate Civil Magiſtrates,</hi> which the King placed in every City: And theſe are cal<g ref="char:EOLhyphen"/>led <hi>Judges.</hi>
+            </p>
+            <p>The Word <hi>Judges</hi> is not uſed ſo ſtrictly in the Scriptures, as in our Nation: For there it ſignifieth at large, a <hi>Governour;</hi> and ſometimes the ſupreme Governour. <hi>Moſes,</hi> in his Time, was undoubted<g ref="char:EOLhyphen"/>ly ſuch; and S. <hi>Stephen,</hi> recounting the Hiſtory of him, noteth, That the injurious <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>brew</hi> ſaid unto <hi>Moſes, Who made thee a</hi> Ruler <hi>and a</hi> Judge <hi>over us</hi>
+               <note n="(b)" place="margin">Acts 7.27.</note>? and in <hi>Exodus</hi> it is, <hi>Who made thee a</hi> Prince <hi>and a</hi> Judge
+<note n="(c)" place="margin">Exod. 2.14</note>? Where <hi>Ruler</hi> or <hi>Prince</hi> and <hi>Judge</hi> are Words of the ſame import: and S. <hi>Ste<g ref="char:EOLhyphen"/>phen</hi> uſeth the ſame Words that the LXX do, <hi>viz.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note n="(d)" place="margin">Ex. 2.14. <hi>and</hi> Acts 7.27, 35.</note>. Nor was the Word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> unknown in this Signification among the Gentiles any more than among the Jews.</p>
+            <p>Among the <hi>Jews,</hi> all the Supreme Governours, from <hi>Moſes</hi> and <hi>Joſhua</hi> to the Kings, were called <hi>Judges;</hi> and they had ſuch a Power as the <hi>Dictators</hi> had among the <hi>Romans,</hi> and did ſuch Offices for the <hi>Jews,</hi> as the <hi>Heroes</hi> (<hi>Hercules</hi> and <hi>Theſeus</hi>
+               <note n="(d)" place="margin">
+                  <hi>v. Plutarc. in vita Theſſ.</hi>
+               </note> and others) did for the <hi>Gentiles, viz.</hi> delivering them from Violence and Oppreſſion.</p>
+            <pb n="3" facs="tcp:103378:6"/>
+            <p>I need not enquire further into the <hi>Form</hi> of the Jewiſh Government at that Time: Or ſtate how far it was, in ordinary <hi>Ariſtocratical,</hi> with reſpect to the <hi>Sanedrim</hi>
+               <note n="(f)" place="margin">Exod. 18.24, <hi>&amp;c.</hi>
+               </note>: or <hi>Theocratical</hi> with reſpect to God
+<note n="(g)" place="margin">1 Sam. 8.7. <hi>and</hi> 12.12.</note>, or <hi>Monarchical,</hi> with reſpect to the Judg<g ref="char:EOLhyphen"/>es
+<note n="(h)" place="margin">Judg.</note>: or, how it was mixed of all theſe. 'Tis ſuf<g ref="char:EOLhyphen"/>ficient for my preſent Purpoſe, that by <hi>Judges,</hi> in Scripture, are meant, at large, <hi>Civil Magiſtrates:</hi> That the Supreme Governour is ſometime ſo called; and that the Subordinate are ſo called in the <hi>Text;</hi> ſo that the meaning of it is this, That King <hi>Jeho<g ref="char:EOLhyphen"/>ſhaphat</hi> ſet Civil Magiſtrates in every City, and that each City had a Chief, Civil Magiſtrate of its own: And that the King charged them to govern righte<g ref="char:EOLhyphen"/>ouſly in their ſeveral Places.</p>
+            <p>In the Words we have,
+<list>
+                  <item>I. <hi>The</hi> Appointment <hi>of Civil Magiſtrates in every City, by the King.</hi>
+                  </item>
+                  <item>II. <hi>The</hi> Charge <hi>which the King gave unto them con<g ref="char:EOLhyphen"/>cerning their Office.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>I. The <hi>Appointment</hi> of Civil Magiſtates in every City, by the King, <hi>Jehoſhaphat ſet judges in the land, throughout all the fenced cities of Judah, city by city.</hi>
+            </p>
+            <p>We have in the Old Teſtament the Hiſtory of the <hi>Jewiſh</hi> Nation: And that from the firſt original and fundamental eſtabliſhment thereof; ſo that we know, not only, what manner the Supreme and Subordinate Magiſtrates did ſucceed in after-Times, but alſo how they were conſtituted at the beginning.</p>
+            <pb n="4" facs="tcp:103378:7"/>
+            <p>And as for the Subordinate Magiſtates, we find that they were at the firſt choſen by <hi>Moſes,</hi> the Su<g ref="char:EOLhyphen"/>preme, and that his Choice was approved by God, At their coming out of <hi>Egypt, Moſes</hi> was the only Governour, and <hi>Jethro</hi> obſerving the intolerable Encumbrance, gave him counſel, To <hi>provide, out of all the people, able men, ſuch as feared God, men of truth, hating covetouſneſs, and to place ſuch, over them, to be rulers of thouſands, and rulers of hundreds, and rulers of fifties, and rulers of tens. And let them</hi> (ſays he) <hi>judge the people at all ſea<g ref="char:EOLhyphen"/>ſons: And it ſhall be, that every great matter they ſhall bring unto thee, but every ſmall matter they ſhall judge. So it ſhall be eaſier for thy ſelf, and they ſhall bear the burden with thee. If thou ſhalt do this, and God command thee ſo, then thou ſhalt be able to endure; and all the people ſhall go unto their place in Peace</hi>
+               <note n="(i)" place="margin">Exod. 18.13, <hi>&amp;c.</hi> 24, <hi>&amp;c.</hi>
+               </note>.</p>
+            <p>This Counſel <hi>Moſes</hi> followed, chuſing Subordi<g ref="char:EOLhyphen"/>nate Governours under him; and chuſing ſuch Men as were fit to be Governours. The Hiſtory of this <hi>Moſes</hi> recounts in his laſt Speech to the People
+<note n="(k)" place="margin">Deut. 1.9, <hi>&amp;c.</hi>
+               </note>: And the Qualifications of thoſe Men were much the ſame that <hi>Ariſtotle</hi> ſays muſt be in Gover<g ref="char:EOLhyphen"/>nours. He that is to govern (ſays the Philoſopher) muſt have, 1. <hi>Love to the People, whom he is to govern.</hi> 2. <hi>Power ſufficient for his Office. And,</hi> 3. <hi>Vertue or Honeſty and Juſtice</hi>
+               <note n="(l)" place="margin">
+                  <hi>Ariſt. Pol. l.</hi> 5. <hi>ſect.</hi> 89.</note>. <hi>Sufficiency</hi> is a neceſſary Qualification in one who is to govern, and that Sufficiency conſiſteth in <hi>Wiſdom, Juſtice</hi> and <hi>Power.</hi>
+            </p>
+            <p>The reaſon for this is, becauſe the Adminiſtra<g ref="char:EOLhyphen"/>tion of Government is a Work of great Difficulty, and of great Conſequence: And becauſe thoſe who do govern are a Pattern to thoſe who are governed.
+<pb n="5" facs="tcp:103378:7"/>Governours are publick Perſons, and cannot lead private Lives: And therefore they ought ſo to live, that they may be exemplary. <hi>Themiſtocles</hi> did ſo, when he came unto the Government, he laid aſide thoſe Liberties that he took before, and behaved himſelf in all things with a ſpecial Severity
+<note n="(m)" place="margin">
+                  <hi>Plutarch.</hi>
+               </note>.</p>
+            <p>And great Reaſon there was why he ſhould do ſo; for the <hi>People</hi> do narrowly obſerve, not only the publick Juſtice, but alſo the common Conver<g ref="char:EOLhyphen"/>verſation of the <hi>Magiſtrate:</hi> inſomuch that ſmall Things were objected againſt <hi>Pompey</hi> the Great. The grave Philoſopher obſerves, That <hi>as a little Wen or Wart in the Face is more troubleſome than far greater Irregularities and Mutilations in other Parts of the Body; ſo ſmall Faults in the Life of a Magi<g ref="char:EOLhyphen"/>ſtrate, are accounted great ones, through the Opinion, which Mankind have, that Governours are extraordi<g ref="char:EOLhyphen"/>nary Perſons, and ſuch as ought to be free from all Error and Fault</hi>
+               <note n="(n)" place="margin">
+                  <hi>Plutarch. de Reip. ger. praecept.</hi>
+               </note>.</p>
+            <p>
+               <hi>Livius Druſus</hi> was ſenſible of this; and when, after he was made <hi>Tribune,</hi> a Carpenter offered him, for five Talents, to alter all thoſe Places in his Houſe, through which it could be inſpected by his Neighbours: The <hi>Tribune</hi> anſwered, That he would give him ten Talents, if he would contrive to lay his Houſe ſo open that all the Citizens might ſee how he lived. <hi>Plutarch</hi> notes, That he was a ſober and vertuous Man: But adds, <hi>That there was no need his Houſe ſhould be ſo open, the Citizens would know how he lived, without that Advantage</hi>
+               <note n="(o)" place="margin">
+                  <hi>Plut. Reip. gerend. praecep<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </note>. Becauſe therefore the Intereſt of great Multitudes dependeth upon the Vertue of Governours; and becauſe the Lives of many will be formed by their Example, it is neceſſary that Governours ſhould b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtrictly Vertuous.</p>
+            <pb n="6" facs="tcp:103378:8"/>
+            <p>'Tis neceſſary that Magiſtrates ſhould be qualifi<g ref="char:EOLhyphen"/>ed for their Office, and 'tis neceſſary that there ſhould be <hi>many</hi> ſubordinate Magiſtrates; for if one Man were ſufficient for ſeveral Offices, yet it were not ſafe for him to undertake them
+<note n="(p)" place="margin">
+                  <hi>Ariſt. Pol. l.</hi> 2.</note>, but ac<g ref="char:EOLhyphen"/>cording to <hi>Plutarch</hi>'s Similitude
+<note n="(q)" place="margin">
+                  <hi>Plutarch. Reip. ger. praecept.</hi>
+               </note>, as the <hi>Hand</hi> being divided into Fingers, is not thereby made the more impotent, but is a more compleat and ar<g ref="char:EOLhyphen"/>tificial Inſtrument for the uſe of Man; ſo dividing the Parts of Government among <hi>many</hi> is moſt Ad<g ref="char:EOLhyphen"/>vantagious for the Society. So <hi>Moſes</hi> did here, and ſo it has been in all Nations; and what the Nature of things did require, the Law of God does ap<g ref="char:EOLhyphen"/>prove: For in the Inſtitution of the <hi>Sanedrim</hi>
+               <note n="(r)" place="margin">Numb. 11.16, 17.</note>, we find that <hi>Moſes</hi> choſe Seventy Elders, by the Or<g ref="char:EOLhyphen"/>der of God; and God put the Spirit of Government upon thoſe whom <hi>Moſes</hi> had choſen, as he promiſed.</p>
+            <p>Thus it was at the firſt erecting of the <hi>Jewiſh Polity,</hi> and the ſame was obſerved afterward; for in the Days of <hi>Jeh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhaphat,</hi> we ſee he appointed ſubordinate Governours (as <hi>Moſes</hi> had done at firſt) <hi>He ſet Judges in the land, throughout all the fenced cities of Judah, city by city.</hi>
+            </p>
+            <p>Agreeably the <hi>Apoſtle</hi> ſays
+<note n="(s)" place="margin">1 Pet. 2.13, 14.</note>, <hi>Submit your ſelves to every ordinance of man, for the Lord's ſake, whether it be to the King as ſupreme, or unto Gover<g ref="char:EOLhyphen"/>nours, as unto them that are ſent by him.</hi> Subordi<g ref="char:EOLhyphen"/>nate Governours derive their Power from the Su<g ref="char:EOLhyphen"/>preme, and are accountable to him. Subordinate Governours are to <hi>obey</hi> as well as to govern: And they are directed in their Government by their Obedience. It is an old Saying, That <hi>he who would govern well, muſt firſt obey</hi>
+               <note n="(t)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ariſt. Pol. l. 7. ſect. 58.</note>. And <hi>Ari<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>totle</hi> quotes it as a Saying in his Time, received by common and long Conſent. But Subordinate and
+<pb n="7" facs="tcp:103378:8"/>Temporary Governours have this ſpecial Advantage for governing well, That they have obeyed before, that they muſt obey again, thoſe who are in the ſame Places they hold, and they do obey, all the Time, thoſe who are Supreme.</p>
+            <p>Government is neceſſary to Society, and Subordi<g ref="char:EOLhyphen"/>nation is neceſſary to Government: For as no So<g ref="char:EOLhyphen"/>ciety can ſubſiſt without Government, ſo no Go<g ref="char:EOLhyphen"/>vernment can ſubſiſt without Subordination. And this unavoidable Neceſſity is a publick Benefit; for as thoſe who govern take care of the publick Inter<g ref="char:EOLhyphen"/>eſt, ſo it is expedient there ſhould be thoſe to whom they ſhould give an account
+<note n="(u)" place="margin">
+                  <hi>Ariſt. Pol. l.</hi> 6. § 40. <hi>l.</hi> 3. §. 53, <hi>&amp;c. &amp; l.</hi> 2. <hi>p.</hi> 134, 153 126, <hi>&amp; l.</hi> 3. §. 30. Dan. 6.1, 2. <hi>and</hi> 1 Sam. 12.1, <hi>&amp;c.</hi>
+               </note>: And ſo it is in all Subordinate Governours.</p>
+            <p>Thus we ſee, That particular ſubordinate Magi<g ref="char:EOLhyphen"/>ſtrates are neceſſary: That Vertue is a neceſſary Qualification in Magiſtrates: That the <hi>Law</hi> is the Rule
+<note n="(x)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ariſt Pol. l. 1. c 6.</note>: And, that the Supreme is the Judge of their Adminiſtration. Hitherto we have ſeen the <hi>Appointment</hi> of Subordinate Magiſtrates, by the King.</p>
+            <p n="2">II. We have the <hi>Charge</hi> which the King gave unto thoſe whom he had appointed Subordinate Magiſtrates.</p>
+            <p>The Charge was given by a <hi>Religious King:</hi> And ſo there is Power
+<note n="(y)" place="margin">Eccl. 8.4.</note>, and ſo there is Equity in it.</p>
+            <p>But herein I am to conſider.</p>
+            <p n="1">1. The <hi>matter</hi> of the <hi>Admonition,</hi> which is contai<g ref="char:EOLhyphen"/>ned in the Charge or Speech of the King: and that Admonition is ſhort and Comprehenſive, <hi>Take heed what ye do,</hi> and <hi>Take heed, and do it.</hi>
+            </p>
+            <pb n="8" facs="tcp:103378:9"/>
+            <p n="2">2. The <hi>Reaſons</hi> for that Admonition, and they are ſtrong, and irreſiſtible, as we ſhall ſee pre<g ref="char:EOLhyphen"/>ſently.</p>
+            <p n="1">1. The <hi>Matter</hi> of the <hi>Admonition,</hi> which is con<g ref="char:EOLhyphen"/>tained in the Charge or Speech of the King, and that Admonition is ſhort and comprehenſive. <hi>Take heed what ye do,</hi> and <hi>take heed and do it.</hi> The par<g ref="char:EOLhyphen"/>ticulars of their Office are not recited, nor was it neceſſary they ſhould be recited, to Men who were fit for their Office. They knew, from the nature of their Office (which was to Govern) and from the matter of the Laws (according to which they were to Govern) what their Duty was. In ſome it was their neceſſary Duty to <hi>do right</hi> unto all, and to <hi>help</hi> them <hi>to right,</hi> who ſtand in need of their <hi>help.</hi> For this purpoſe they were furniſhed with Power, and qualified with Knowledge, and ſup<g ref="char:EOLhyphen"/>poſed to be <hi>Juſt.</hi>
+            </p>
+            <p>The general Rule for this Juſtice is given by <hi>Me<g ref="char:EOLhyphen"/>nelaus</hi> in <hi>Homer
+<note n="(z)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Hom. Il. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Determine equally between both Parties, and not with partiality.</hi>
+               <note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Ariſt. Eth. L. 5. C. 4.</note> The Law is ſuppoſed to be the Rule of Juſtice, and Governours are to execute the Law, and to adminiſter Juſtice. Therefore <hi>Ariſtotle</hi> ſays, <hi>To go unto the Magiſtrate, is to go unto Juſtice.</hi>
+               <note n="(b)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Ariſt. Eth. L. 5. C. 4.</note> And among <hi>us,</hi> ſome of our Magiſtrates are called by the Name of Juſtice. And <hi>Ariſtotle</hi>'s reaſon for his ſaying, will give a good account, both of the Truth he affirms, and of the Title we uſe. <hi>For</hi> (ſays he) <hi>a Governour ought to be as a Living Juſtice.</hi> And again <hi>Juſtice is Equity, as alſo a Judge is.</hi>
+               <note n="(c)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ariſt. Eth. L. 5. C. 4.</note> Every Man has a right to what by Law is his, and the Force of the Commu<g ref="char:EOLhyphen"/>nity is in the hand of the Governours, that by them every Mans right may be ſecured. By the <hi>Law,</hi> Magiſtrates know what they are to do: By their
+<pb n="9" facs="tcp:103378:9"/>
+               <hi>Power,</hi> they can do what they ought, and by their <hi>Conſcience and Honour,</hi> they are prevailed with to <hi>do right,</hi> as by Law they are bound, and as by their Power they are enabled.</p>
+            <p>No other conſideration whatſoever ought to prevail with Magiſtrates, but that of Right; and becauſe many other things will put in with them, they muſt <hi>take heed what they do.</hi> Men are influen<g ref="char:EOLhyphen"/>ced by <hi>others,</hi> and by <hi>themſelves,</hi> and the Magi<g ref="char:EOLhyphen"/>ſtrates muſt needs be <hi>Men</hi> who are liable to thoſe influences. A Man may be influenced by <hi>others,</hi> i. e. by his Friends, or by his Enemies, and a Man may be influenced by <hi>himſelf,</hi> i. e. by his Temper, and by his Paſſions (<hi>viz.</hi> of Love, Deſire, and Joy, or Hatred, Anger, and Sadneſs.) <hi>For the ſame thing, hath not the ſame appearance to him who Loves, and to him who Hates; to him who is Angry, and to him who is not Angry.</hi>
+               <note n="(d)" place="margin">
+                  <hi>Ariſt. Rhet. L.</hi> 2. <hi>C.</hi> 1. §. 3.</note> The methods of Allurement, and Terror, are innumerable; and the ſubtilties of them are unſearchable: and therefore a Man who is to <hi>do right,</hi> had need <hi>take heed what he does;</hi> the repreſentations made by our Affections are deceitful, and the inſinuations of them are im<g ref="char:EOLhyphen"/>perceptible: ſo that a Man had need take heed of Himſelf, as well as of others. A Magiſtrate is to remember that he is ſtrictly obſerved, and that thoſe who obſerve him, are not under the influen<g ref="char:EOLhyphen"/>ces which he is under.</p>
+            <p>He that acteth in a Political Capacity, muſt in<g ref="char:EOLhyphen"/>form himſelf certainly what is Right, and muſt be tenacious of his Purpoſe to <hi>do</hi> nothing but what is <hi>right.</hi> He muſt be free from all Ambition and Anger, and muſt maintain a full Aſſurance of Mind; and not yield to Enemies, or to Difficulties. <hi>Ye ſhall not reſpect Perſons in judgment, but ye ſhall
+<pb n="10" facs="tcp:103378:10"/>hear the ſmall as well as the great, ye ſhall not be afraid of the face of man
+<note n="(e)" place="margin">Deut. 1.17.</note>. He that ſaith unto the wicked, thou art righteous, him ſhall the people curſe, nations ſhall abhor him. But to them that re<g ref="char:EOLhyphen"/>buke him, ſhall be delight, and a good bleſſing ſhall come upon him. Theſe things alſo belong to the wiſe: It is not good to have reſpect of Perſons in judg<g ref="char:EOLhyphen"/>ment
+<note n="(f)" place="margin">Prov. 24.24, 25, 23.</note>. Ye ſhall do no unrighteouſneſs in judg<g ref="char:EOLhyphen"/>ment: Thou ſhalt not reſpect the perſon of the poor, nor honour the perſon of the mighty, but in righteouſ<g ref="char:EOLhyphen"/>neſs ſhalt thou judge thy neighbour</hi>
+               <note n="(g)" place="margin">Lev. 19.15.</note>. And as Neglect of the Poor muſt not pervert Juſtice, ſo neither muſt Compaſſion to them do it. <hi>Neither ſhalt thou countenance a poor man in his cauſe</hi>
+               <note n="(h)" place="margin">Exod. 23.3.</note>. In ſhort, the Merits of the Cauſe, and not the Quality of the Perſon, muſt be conſidered; for Juſtice is Sacred and inflexible. A Magiſtrate muſt have no Friendſhips or Enmities, to the Prejudice of Equi<g ref="char:EOLhyphen"/>ty: But he muſt have the ſame Regard to all good Men, and muſt put the ſame Reſtraint upon all thoſe who are Bad. He is to be <hi>for the Puniſhment of evil-doers, and for the praiſe of them that do well</hi>
+               <note n="(i)" place="margin">1 Pet. 2.14.</note>. And whoſoever is reſolved to <hi>do right,</hi> muſt take <hi>take heed what he does;</hi> becauſe moſt Caſes are made intricate by the Litigants, and without great Caution, there can be no certain Ju<g ref="char:EOLhyphen"/>ſtice. King <hi>Jehoſhaphat</hi> knew this well: He knew what Temptations a Magiſtrate is under, to do In<g ref="char:EOLhyphen"/>juſtice; and how difficult 'tis for him to do Juſtice: And he warned the Magiſtrates accordingly, <hi>Take heed what ye do.</hi>
+            </p>
+            <p>This is the <hi>Admonition</hi> which was given unto Subordinate Magiſtrates, by the King.</p>
+            <pb n="11" facs="tcp:103378:10"/>
+            <p n="2">2. The <hi>Reaſons</hi> for that Admonition are ſtrong and irreſiſtible: No Man who conſiders them, can be inſenſible.</p>
+            <p>Magiſtrates muſt <hi>take heed what they do.</hi>
+            </p>
+            <p n="1">1. Becauſe they govern <hi>for God,</hi> by whom they are entruſted, and to whom they are account<g ref="char:EOLhyphen"/>able.</p>
+            <p n="2">2. Becauſe that God, for whom they govern, is <hi>preſent</hi> with them, and an Obſerver of them in their Adminiſtration of Juſtice.</p>
+            <p n="3">3. Becauſe that <hi>God,</hi> who obſerves what their Ad<g ref="char:EOLhyphen"/>miniſtration of Juſtice is, is himſelf <hi>moſt Juſt</hi> and Righteous.</p>
+            <p>Theſe are the Arguments which King <hi>Jehoſhaphat</hi> makes uſe of, in his Speech to Inferior Magiſtrates. He might have ſaid to them, Ye have received your Power from <hi>me:</hi> I will have <hi>an Eye over you,</hi> and inform my ſelf certainly what you do: You ſhall find <hi>me</hi> inflexibly <hi>Juſt,</hi> to puniſh all who are unjuſt, and eſpecially thoſe Magiſtrates who are unjuſt. He might have uſed theſe Arguments: And the matter of them had been true and impor<g ref="char:EOLhyphen"/>tant. But he did ſuggeſt what was leſs obvious, yet more conſiderable, <hi>viz.</hi> That they acted <hi>for God:</hi> That God was <hi>preſent</hi> with them: That God is <hi>Juſt,</hi> whoſe Miniſters of Juſtice they are. I ſhall lay before you the Arguments of King <hi>Jeho<g ref="char:EOLhyphen"/>ſhaphat:</hi> And the</p>
+            <pb n="12" facs="tcp:103378:11"/>
+            <p n="1">1ſt. Argument is, That Magiſtrates muſt <hi>take heed what they do,</hi> and <hi>do right,</hi> becauſe they go<g ref="char:EOLhyphen"/>vern <hi>for God;</hi> from whom they receive their Power, and to whom they are accountable for the Uſe of it.</p>
+            <p>Subordinate Magiſtrates do <hi>not immediately</hi> re<g ref="char:EOLhyphen"/>ceive their Power <hi>from God,</hi> but from the King, as Supreme: And they are not accountable, to God <hi>only,</hi> but to their Superiors. But he was a <hi>King</hi> who told them, <hi>Ye judge not for men, but for the Lord.</hi> And <hi>Moſes</hi> ſaid, <hi>The judgment is God's. Ju<g ref="char:EOLhyphen"/>ſtice</hi> (or doing Right to every Man) is a Divine Vertue: And the <hi>Adminiſtration</hi> of Juſtice (or the helping Men to Right, who ſuffer Wrong) is a Divine Power. <hi>God</hi> is the ſupreme and univerſal Gover<g ref="char:EOLhyphen"/>nour of the World: And is called, <hi>The judge of the whole earth</hi>
+               <note n="(k)" place="margin">Gen. 18.25.</note>. Governours are the Vice-ge<g ref="char:EOLhyphen"/>rents of God, and they have his Name: <hi>I have ſaid ye are Gods</hi>
+               <note n="(l)" place="margin">Pſal. 82.6.</note>. And our Saviour argues from thence, that they are warrantably called Gods, who have received Power from God
+<note n="(m)" place="margin">Joh. 10.34.</note>. And S. <hi>Paul</hi> ſays, <hi>There is no power but of God: The powers that be, are ordained of God</hi>
+               <note n="(n)" place="margin">Rom. 13.1.</note>, are placed in that order they are by God himſelf.</p>
+            <p>And as they are appointed by God, ſo they <hi>act for him:</hi> They <hi>judge for the Lord; not for man, but for the Lord.</hi> Subordinate Magiſtrates do re<g ref="char:EOLhyphen"/>preſent the Supreme, and judge for him: But it was the Wiſdom and Piety of a King, to tell them, There was <hi>more than ſo</hi> in their Office; for they executed it <hi>for God,</hi> and not for him, <hi>i. e. not ſo much</hi> for him, as for God. The Supremacy and the Subordination are both the Appointment of God, and <hi>all</hi> Governours are God's Miniſters.</p>
+            <pb n="13" facs="tcp:103378:11"/>
+            <p>If therefore it be a good Argument to perſwade Subordinate Magiſtrates, <hi>To take heed what they do,</hi> becauſe they <hi>repreſent the King,</hi> and act <hi>for him,</hi> it is a much ſtronger Argument, that Magiſtrates re<g ref="char:EOLhyphen"/>preſent <hi>God,</hi> and act for God. The Adminiſtra<g ref="char:EOLhyphen"/>tion of Juſtice is God's Work: And thoſe who ad<g ref="char:EOLhyphen"/>miniſter Juſtice, do judge for God. The <hi>doing Right</hi> unto all is what belongs unto God: And the Magiſtrates are, in this, the <hi>Miniſters of God to us for good</hi>
+               <note n="(o)" place="margin">Rom. 13.4</note>.</p>
+            <p>There is an Honour put upon all Magiſtrates, by the <hi>Truſt</hi> which God repoſes in them: And they are, by their Character, obliged to take care of <hi>Juſtice,</hi> which is the Intereſt of God in the World.</p>
+            <p n="2">2. Magiſtrates muſt <hi>take heed what they do,</hi> be<g ref="char:EOLhyphen"/>cauſe that God, for whom they govern, is <hi>preſent</hi> with them, and an Obſerver of them in their Ad<g ref="char:EOLhyphen"/>miniſtration of Juſtice: <hi>God ſtandeth in the congre<g ref="char:EOLhyphen"/>gation of the mighty, he judgeth among the Gods</hi>
+               <note n="(p)" place="margin">Pſal. 82.1.</note>; upon which Conſideration the <hi>Pſalmiſt</hi> exhorts them unto Juſtice. <hi>How long will ye judge unjuſtly, and accept the perſons of the wicked? Defend the poor and fatherleſs; do juſtice to the afflicted and needy, deliver the poor and needy, rid them out of the Hand of the wicked</hi>
+               <note n="(q)" place="margin">
+                  <hi>v.</hi> 2, 3, 4.</note>.</p>
+            <p>
+               <hi>Heſiod</hi> ſays the ſame Truth, and makes uſe of it to the ſame purpoſe; <hi>O ye Kings</hi> (ſays he) <hi>remem<g ref="char:EOLhyphen"/>ber juſtice, for God is preſent among men, and obſerves how men tear one another in pieces, by injuſtice, with<g ref="char:EOLhyphen"/>out regarding God. The moſt high God has three thou<g ref="char:EOLhyphen"/>ſand divine ſpirits, who walk about the earth con<g ref="char:EOLhyphen"/>cealed in darkneſs (the guardians of mankind) ob<g ref="char:EOLhyphen"/>ſerving the actions of men and the Adminiſtrations of juſtice.</hi>
+            </p>
+            <pb n="14" facs="tcp:103378:12"/>
+            <p>
+               <hi>Juſtice</hi> (ſays the Poet) <hi>is a Virgin born of God, and had in the greateſt Reverence, by all that abide in Heaven; and whenever ſhe ſuffers an Injury, ſhe complains unto her Father</hi>
+               <note n="(r)" place="margin">
+                  <hi>Heſiod. oper. &amp; dies, v.</hi> 246, <hi>&amp;c.</hi>
+               </note> (ſo I tranſlate, with ſome accommodation of the Poet's Senſe, to the Chriſtians Style) upon which he exhorts thoſe who govern, to do juſtice, becauſe <hi>God</hi> ſees all that is done: <hi>The Eye of God ſees, and the Heart of God conſiders all things</hi>
+               <note n="(s)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Heſiod.</note>.</p>
+            <p>If a Subordinate Magiſtrate were to execute his Office in the preſence of the King, he would ſurely <hi>take heed what he did,</hi> that he might <hi>do right.</hi> But we are ſure that every Magiſtrate executes his Office, in the Preſence of God, who is <hi>Lord of Lords and King of Kings.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note n="(t)" place="margin">
+                  <hi>Heſiod. gen. deor. v.</hi> 886.</note>; which we may tranſlate by warranty of the 8 2d. <hi>Pſalm, Jehovah is the King of Gods:</hi> Or, <hi>the Lord is God of Gods</hi>
+               <note n="(u)" place="margin">Deut. 10.17.</note>.</p>
+            <p>King <hi>Solomon</hi> ſpeaking concerning the Admi<g ref="char:EOLhyphen"/>niſtration of Juſtice, ſays, <hi>If thou ſeeſt the oppreſſion of the poor, and the violent perverting of judgment and juſtice in a province, marvel not at the matter; for he that is higher than the higheſt regardeth; and there be higher than they</hi>
+               <note n="(x)" place="margin">Eccl. 5.8.</note>: This reacheth not only to the Subordinate, but alſo to the Supreme, for verily the Lord is God over all, and judgeth in the Earth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: All the Judgments of Men ſhall be judged over again; and God, who is to do this, ſitteth in the Judgment with them. This God is inviſible, but he is preſent: And that Conſideration is moſt powerful to perſwade Men to do right</p>
+            <p n="3">3. Magiſtrates muſt <hi>take heed what they do,</hi> be<g ref="char:EOLhyphen"/>cauſe that God, who obſerves all the Adminiſtra<g ref="char:EOLhyphen"/>tions of Juſtice, is <hi>himſelf</hi> moſt <hi>juſt: A God of
+<pb n="15" facs="tcp:103378:12"/>truth and without iniquity, juſt and right is he
+<note n="(y)" place="margin">Deut. 32.4.</note>. Far be it from God that he ſhould do wickedneſs, and from the Almighty, that he ſhould commit iniquity. For the works of a man ſhall he render unto him, and cauſe every man to find according to hisways</hi>
+               <note n="(z)" place="margin">Job 34.10, 11.</note>.</p>
+            <p>The <hi>Puniſhment</hi> of unjuſt Men is a Vindication of the Juſt God, and demonſtrates his Providence and his Equity. The <hi>Poet</hi> repreſents himſelf un<g ref="char:EOLhyphen"/>certain whether the Intereſts of Men, and the Af<g ref="char:EOLhyphen"/>fairs of the World were governed by a Divine Providence or blind Chance: When he conſidered the Order, Magnificence and Stability of Nature, he inclined to belive God the Author of all things: But when he conſidered the Adverſity of the Righteous, and the Proſperity of the Wick<g ref="char:EOLhyphen"/>ed, he began to queſtion it: But when one who was exceedingly wicked, was alſo remark<g ref="char:EOLhyphen"/>ably puniſhed, that Event vindicated the Ho<g ref="char:EOLhyphen"/>nour of God, and ſettled his Opi<g ref="char:EOLhyphen"/>nion of Providence
+<note n="(a)" place="margin">Pſal. 73. Seneca de Provid. <hi>Abſtulit hunc tan<g ref="char:EOLhyphen"/>dem Rufini poena tumulium, abſol<g ref="char:EOLhyphen"/>vitque deos. Jam non ad cul<g ref="char:EOLhyphen"/>mina rerum injuſtos creviſſe que<g ref="char:EOLhyphen"/>ror. Tolluntur in altum, ut lapſu graviore ruant.</hi> — Claud. in Ruf. l. 1.</note>. That God is <hi>Juſt</hi> is manifeſt from his Nature, and from his Dealings: And becauſe wicked Men will not fear his Juſtice they periſh by it: their Miſeries and his Vengeance prove the Divine Ju<g ref="char:EOLhyphen"/>ſtice ſenſibly to themſelves and o<g ref="char:EOLhyphen"/>thers; and happy they who timely conſider and repent, ſo as to imitate <hi>God,</hi> who is the Judge of all the Earth, and <hi>does right.</hi>
+            </p>
+            <p>Did a Subordinate Magiſtrate know, that the <hi>King</hi> (whom he repreſents) was a Juſt Man, he would not dare, in his Preſence, to do an unjuſt Act; for Injuſtice, with that Circumſtance, would be unſpeakable <hi>Inſolence:</hi> But for any to do what is unjuſt in the Preſence of <hi>God,</hi> is greater <hi>Profane<g ref="char:EOLhyphen"/>neſs.</hi>
+               <pb n="16" facs="tcp:103378:13"/>Upon this Conſideration it is a piercing Queſtion, <hi>Do ye indeed ſpeak Righteouſneſs, O Con<g ref="char:EOLhyphen"/>gregation! do ye judge uprightly, O ye Sons of Men</hi>
+               <note n="(b)" place="margin">Pſal. 58.1.</note>? Thoſe who adminiſter Juſtice for a juſt God, muſt be ſure to do it juſtly, for God will not endure that his Name and his Authority ſhould be profaned by Injuſtice.</p>
+            <p>Thus I have ſhewn you what <hi>Arguments</hi> King <hi>Jehoſhaphat</hi> uſed to perſwade thoſe Subordinate Ma<g ref="char:EOLhyphen"/>giſtrates, which he placed in the ſeveral Cities, <hi>To do right;</hi> and he did thus admoniſh and perſwade thoſe whom we have no ground to believe he ſu<g ref="char:EOLhyphen"/>ſpected; for if he had ſuſpected them, 'tis likely he would not have made them Magiſtrates.</p>
+            <p>I have hitherto explained the <hi>Royal Speech</hi> of <hi>Jehoſhaphat</hi> to his Subordinate Magiſtrates, and ſo I may ſay, you have heard the <hi>Word of a King;</hi> but that is not all, for the Word you have heard is <hi>greater</hi> than that of a King, 'tis the <hi>Word of God.</hi> This Word I ſhall once more repeat, and then pro<g ref="char:EOLhyphen"/>ceed to <hi>Application, Take heed what ye do, for ye judge not for man, but for the Lord, who is with you in the judgment. Wherefore now let the fear of the Lord be upon you, take heed and do it: For there is no iniquity with the Lord your God, nor reſpect of perſons, nor taking of Gifts.</hi>
+            </p>
+            <p>The <hi>Application</hi> ſhall be Advice to all Publick Perſons.</p>
+            <list>
+               <item>I. To maintain in their Hearts, a great <hi>Vene<g ref="char:EOLhyphen"/>ration</hi> of the Divine Juſtice: And,</item>
+               <pb n="17" facs="tcp:103378:13"/>
+               <item>II. To <hi>Pray</hi> unto God to enable them (in their Capacities) to <hi>imitate</hi> that Ju<g ref="char:EOLhyphen"/>ſtice.</item>
+            </list>
+            <p n="1">I. Let all Publick Perſons maintain in their Hearts a great <hi>Veneration</hi> of Divine Juſtice. <hi>Let the Fear of the Lord be upon you, take heed and do it: For there is no iniquity with the Lord our God, nor reſpect of perſons, nor taking of gifts.</hi>
+            </p>
+            <p>Juſtice is <hi>doing Right</hi> unto Men: And that doing Right is <hi>doing Benefit;</hi> and thoſe who do it, are <hi>Benefactors</hi>
+               <note n="(c)" place="margin">Luke 22.25.</note>. But as Men are united in <hi>Society,</hi> ſo the Perſonal Rights of Men are re<g ref="char:EOLhyphen"/>trenched, that the Publick Rights may be eſta<g ref="char:EOLhyphen"/>bliſhed: And every one gains more Advantage from Society than he parts with for it
+<note n="(d)" place="margin">
+                  <hi>Ex quo le<g ref="char:EOLhyphen"/>ges moreſque conſtituti, tum juris ae<g ref="char:EOLhyphen"/>qua deſcriptio, certaque viven<g ref="char:EOLhyphen"/>di diſciplina, per quas bene beateque vivitur, quas res &amp; manſuetado animornm con<g ref="char:EOLhyphen"/>ſecuta, &amp; verecundiae eſt: Effectumque ut effet vita munitior, atque ut dando, &amp; accipiendo, mutandiſque facultatibus, &amp; commodis, nulla re egeremus.</hi> Tull. Offic. l. 2.</note>. Be<g ref="char:EOLhyphen"/>ſides, Benefit is to be conferred, and Right is to be done unto one Man, in ſuch ſort, that Bene<g ref="char:EOLhyphen"/>fit may be conferred, and Right done to all others
+<note n="(e)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ariſt. Pol. l. 3. c. 9. Communis Reipublicae Sponſio.</note>. Juſtice is therefore <hi>doing Right</hi> and Kindneſs to all; and there is a great Wiſ<g ref="char:EOLhyphen"/>dom neceſſary for the adjuſting thoſe Rights, and a great Power neceſſary for the maintain<g ref="char:EOLhyphen"/>ing them.</p>
+            <pb n="18" facs="tcp:103378:14"/>
+            <p>For this, the Juſtice of God is <hi>venerable,</hi> be<g ref="char:EOLhyphen"/>cauſe there is no Partiality or Reſpect of Perſons with him: But he is equally Juſt and Good unto all, and his tender Mercies are over all his Works. He employs the greateſt Wiſdom and Power, to maintain Right: And as the Rights of Men are originally from God, ſo they are defended by him. The Laws of God oblige every one to do Right to every one, as he himſelf does: And as the Diſpenſations of his Providence, are Exerciſes of his <hi>Dominion,</hi> ſo by them, God defends the Rights of Men. And moſt certain it is, that no Man can do Wrong, but he ſhall ſuffer Puniſhment: Vengeance belongs unto God, and he will repay it. God does not, perhaps, avenge ſo ſoon as we deſire; or in ſuch manner as we deſire, becauſe God's Wiſdom and Juſtice are more perfect than ours: But as the Juſtice of God is manifeſted by his Laws, and by his Judgments, ſo that manifeſta<g ref="char:EOLhyphen"/>tion of his Juſtice is the Aſſurance of our Right and Welfare.</p>
+            <p>This Juſtice of God we ought to have in the greateſt <hi>Veneration,</hi> by which he protects the Rights of the Innocent, and puniſhes the In<g ref="char:EOLhyphen"/>juriouſneſs of the Wicked. All that good, which any of us enjoy, not only comes from God, but is ſecured to us, by him: And that we are not deprived (by the Injuſtice of others) of any thing we value, is owing unto the Juſtice of God. 'Tis not by our own Wiſdom, Power and Friends (whatever we may think) that we either obtain or keep what is commodious, or neceſſary for us: But we
+<pb n="19" facs="tcp:103378:14"/>ſhould loſe it through the greater Subtility and Power of others, if it were not for God
+<note n="(f)" place="margin">—<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Hom. Odyſſ. 3.</note>. A Man who well conſiders the World, muſt be convinced of this, and he who is convinced of it, muſt adore the Juſtice of God. And may <hi>every one</hi> ſo conſider this, as to be poſſeſſed with the greateſt Veneration of that Juſtice: For by ſuch a Perſwaſion a Man ſhall honour God, and enjoy himſelf: Whereas he who aſcribes all to his own Wiſdom and Power, muſt needs be forgetful of God, and diſordered in his Mind: And either be vainly conceited of his own Abilities, or extreamly fearful of others. Nor can a Man poſſeſs his Soul long in Tranqui<g ref="char:EOLhyphen"/>lity, through the Deluſions of his Pride: Since God in Juſtice may let looſe the Malice of others againſt him, and convince him of his Inſuffici<g ref="char:EOLhyphen"/>ency, by bringing him to Shame. 'Tis indeed through the interpoſing of the Juſtice of God, (who does Right to every Man) that any Man does enjoy what he has a Right to, and moſt adorable is that Juſtice which maintains Right among Men, where ſo many employ all their Power to do Wrong. The Divine Juſtice does not effectually hinder all Men, from doing any Wrong: But it does hinder very much Wrong which would be done: And it alſo helps them to Right who ſuffer Wrong. This Conſideration is apt to create a great <hi>Veneration</hi> of God in us, and ought to be much thought upon. for that Purpoſe.</p>
+            <p>But as this is a proper Subject for the Medita<g ref="char:EOLhyphen"/>tion of all Men, ſo eſpecially for the Meditation of thoſe, who have any Share in the <hi>Govern<g ref="char:EOLhyphen"/>ment</hi>
+               <pb n="20" facs="tcp:103378:15"/>of Men. Such are (in a peculiar Senſe) the <hi>Miniſters of God:</hi> They are the Iſtruments that God uſes (in a ſpecial manner) for <hi>doing Right</hi> to Men.</p>
+            <p>Thoſe who are Governours, ought to reve<g ref="char:EOLhyphen"/>rence <hi>Government,</hi> as a Divine Expedient, for the <hi>doing of Right:</hi> And thoſe who rule over others are to look upon their Office, as entirely for that End. And a Magiſtrate, who reve<g ref="char:EOLhyphen"/>renceth <hi>Juſtice,</hi> as that for which <hi>God</hi> is adore<g ref="char:EOLhyphen"/>able, muſt needs count Juſtice a Duty, for which <hi>Man</hi> is truly Honour<g ref="char:EOLhyphen"/>able
+<note n="(g)" place="margin">
+                  <hi>Omni igitur ratione colenda &amp; retinenda Juſtitia eſt, tum ipſa per ſe (nam aliter juſtitia non eſſet) tum propter amplificationem honoris &amp; gloriae,</hi> Tull. Off. l. 2.</note>. The Honour of Ma<g ref="char:EOLhyphen"/>giſtracy, is indeed, its ſubſervi<g ref="char:EOLhyphen"/>ency to Juſtice: And ſo ve<g ref="char:EOLhyphen"/>nerable is Juſtice, that to mini<g ref="char:EOLhyphen"/>ſter to it, in any degree, is honourable.</p>
+            <p>I need not ſay, That <hi>Puniſhments</hi> are not the firſt or chief; much leſs the only part of Ju<g ref="char:EOLhyphen"/>ſtice: For they are only accidentally neceſſary, through the Violations of Juſtice. Juſtice is <hi>doing Right</hi> and <hi>maintaining Right:</hi> 'Tis em<g ref="char:EOLhyphen"/>ploying Wiſdom and Power to <hi>conſtrain</hi> thoſe to do Right who are unwilling; and to <hi>hinder</hi> them from doing Wrong who are diſpoſed to it (as moſt are, through Malice or Partiality)
+<note n="(h)" place="margin">
+                  <hi>Ariſt. Pol. l.</hi> 6. <hi>c.</hi> 8.</note>. Now as no Man can be any further Happy or Safe than he can enjoy thoſe Rights that God has given him, ſo no Man can keep thoſe Rights that he may enjoy them, without God. To God's juſt Government of the World, and to his con<g ref="char:EOLhyphen"/>ſtant interpoſing, for the Defence of Right, we owe all the Good that we enjoy.</p>
+            <pb n="21" facs="tcp:103378:15"/>
+            <p>This ſhould cauſe us to <hi>magnify</hi> God, and to account it a moſt important Office, that thoſe are put into, who are to govern any part of the World, under God, and to be his Inſtruments to defend the <hi>Sacred Rights</hi> of Men
+<note n="(i)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ariſt. Eth. l. 5.</note>. This is a Contemplation fit for all Magiſtrates to entertain themſelves with, eve<g ref="char:EOLhyphen"/>ry Day, in their Retirements: And ſo to poſ<g ref="char:EOLhyphen"/>ſeſs their Souls with the greateſt Veneration of Juſtice, as the Property and Similitude of God. In the juſt Governing of Men there is an Image of the Government of God; and by their Office Governours reſemble God, and are ſubordinate to him. So far as their Adminiſtra<g ref="char:EOLhyphen"/>tion of Government is juſt, 'tis doing the Work of God: And for this a Magiſtrate ought to Reverence his Office, and himſelf. And he (that being a Magiſtrate) does, for this only, reverence his Office and himſelf, will do what ſhall deſerve and gain Reverence, <hi>i e.</hi> will <hi>do Right</hi> unto all, according to his Underſtanding and Power; and nothing can be more <hi>Honourable</hi> than ſuch Juſtice; for, this <hi>Juſtice</hi> is the Glo<g ref="char:EOLhyphen"/>ry of God; and for it, God is adored by the whole World.</p>
+            <p n="2">II. Let Magiſtrates <hi>pray</hi> daily unto God, <hi>That</hi> (in their Places, and according to their Offices) <hi>as they rule over Men, they may be Juſt, Ruling in the Fear of God
+<note n="(k)" place="margin">2 Sam, 23.3.</note>. That no Surprize or Miſtake; no Paſſion or Parti<g ref="char:EOLhyphen"/>ality may hinder them from doing all Right to all Men.</hi>
+            </p>
+            <pb n="22" facs="tcp:103378:16"/>
+            <p>Such Petitions a Magiſtrate is to add unto his daily private Devotions: And as ſuch Pe<g ref="char:EOLhyphen"/>titions (coming from a Soul, that unfeignedly deſires to do right) are a good Sign: So (through God's Help) thoſe Prayers will be a proper means to enable him to all neceſſary Juſtice. For, he who deſires heartily, That he may govern for <hi>God's Glory (i. e.</hi> for the good of Men) ſhall not be deſtitute of <hi>God's Grace.</hi> But, as God rules for his own Glory (do<g ref="char:EOLhyphen"/>ing Good to Men) ſo God will aſſiſt thoſe who beg his Aſſiſtance, that they may follow his Example.</p>
+            <p>And what I have ſaid here, as Advice to <hi>All,</hi> who are Governours, in general; I have ſaid to <hi>you Two</hi> in particular.</p>
+            <p>To you, Sir, who are this Day to <hi>Leave,</hi> and to you, Sir, who are this Day to <hi>take</hi> the Place of the <hi>Chief Magiſtrate</hi> of this City.</p>
+            <p>You, Sir, that have had Experience of the Venerable Office, of <hi>doing Right,</hi> in your Ca<g ref="char:EOLhyphen"/>pacity, to the Citizens of this City, may at lei<g ref="char:EOLhyphen"/>ſure recollect your ſelf; and <hi>bleſs God</hi> for it, when you remember he has given you the Heart to do impartial Juſtice: For <hi>doing Juſtice</hi> is a Divine Work.</p>
+            <p>And you, Sir, who do this Day enter upon this Office, let not the Day paſs away without earneſt <hi>Prayer</hi> unto God, That he would give you a Heart equal to your Power, of doing im<g ref="char:EOLhyphen"/>partial Juſtice, to your Fellow-Citizens. So ſhall you reflect upon <hi>your Year,</hi> at the End of it, and at the End of your Life, with Satisfa<g ref="char:EOLhyphen"/>ction and Joy.</p>
+            <pb n="23" facs="tcp:103378:16"/>
+            <p>And for this Grace of Univerſal Juſtice, let let us now pray.</p>
+            <p>
+               <hi>Grant, we beſeech thee, Almighty God, That the Words which we have heard this Day, with our outward Ears, concerning the Venerable Nature and abſolute Neceſſity and great Advan<g ref="char:EOLhyphen"/>tages of Juſtice, may be ſo grafted inwardly in the Hearts of all Men, whoſe Duty it is to do Right, and of all Governours, whoſe Of<g ref="char:EOLhyphen"/>fice it is to maintain Right, That they may bring forth in us all the proper Fruit of Juſt and Good Living, to the Honour and Praiſe of thy Name, through Jeſus Chriſt our Lord.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:103378:17"/>
+            <head>Advertiſement.</head>
+            <p>THERE is publiſhed by the ſame Author, a ſmall Treatiſe, entitituled, <hi>Religion the Perfection of Man:</hi> In 80.</p>
+            <pb facs="tcp:103378:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
